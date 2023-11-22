@@ -99,8 +99,7 @@ function Post() {
             </div>
 
         </div>
-
-        
+      
 
         <div className="card  glass bg-white">
             <div className="card-actions justify-between mt-7">
