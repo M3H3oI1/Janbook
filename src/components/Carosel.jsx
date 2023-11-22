@@ -28,11 +28,11 @@ function Carosel() {
                 className="mySwiper"
             >
                 <SwiperSlide>
-                    <img src="/public/post/han6.jpg" className="rounded-xl h-[70px]" />
+                    <img src="/public/post/han6.jpg" className="rounded-xl " />
 
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ras6.jpg" className="rounded-xl h-[70px]" />
+                    <img src="/public/post/ras6.jpg" className="rounded-xl " />
 
                 </SwiperSlide>
                 <SwiperSlide>
