@@ -1,5 +1,5 @@
 import Mind from "./Mind";
-import Carosel from "./carosel";
+import Carosel from "./Carosel";
 
 function Post() {
     return (
