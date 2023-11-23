@@ -16,7 +16,7 @@ function Post() {
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
                         <div className="flex w-10 rounded-full">
-                            <img src="/public/card/vivo.jpg" />
+                            <img src="/card/vivo.jpg" />
 
                         </div>
                         <p className=" font-bold">Vivo</p>
@@ -55,28 +55,28 @@ function Post() {
                 #LoveBangladesh #Lovevivo #vivoBangladesh</p>
 
             <video width="830" controls autoPlay >
-                <source src="/public/video/vivo V29e.mp4" type="video/mp4" />
+                <source src="/video/vivo V29e.mp4" type="video/mp4" />
             </video>
             <div className="flex">
                 <div className="avatar-group -space-x-2 py-3 mx-2 ">
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/haha.png" />
+                            <img src="/emoji/haha.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/wow.png" />
+                            <img src="/emoji/wow.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/sad.png" />
+                            <img src="/emoji/sad.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/angry.png" />
+                            <img src="/emoji/angry.png" />
                         </div>
                     </div>
 
@@ -107,7 +107,7 @@ function Post() {
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
                         <div className="flex w-10 rounded-full">
-                            <img src="/public/card/ta.webp" />
+                            <img src="/card/ta.webp" />
                         </div>
                         <p className=" font-bold">cricbot</p>
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 " x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
@@ -133,29 +133,29 @@ function Post() {
 
             </div>
             <video width="830" controls >
-                <source src="/public/video/cric.mp4" type="video/mp4" />
+                <source src="/video/cric.mp4" type="video/mp4" />
             </video>
 
             <div className="flex">
                 <div className="avatar-group -space-x-2 py-3 mx-2 ">
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/haha.png" />
+                            <img src="/emoji/haha.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/wow.png" />
+                            <img src="/emoji/wow.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/sad.png" />
+                            <img src="/emoji/sad.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/angry.png" />
+                            <img src="/emoji/angry.png" />
                         </div>
                     </div>
 
@@ -189,7 +189,7 @@ function Post() {
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
                         <div className="flex w-10 rounded-full">
-                            <img src="/public/card/iam.jpg" />
+                            <img src="/card/iam.jpg" />
                         </div>
                         <p className=" text-xl font-bold">আই এম তো অবাক </p>
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
@@ -215,27 +215,27 @@ function Post() {
                 </div>
 
             </div>
-            <figure><img src="/public/card/fun.jpg" className=" h-[600px] w-full" alt="car!" /></figure>
+            <figure><img src="/card/fun.jpg" className=" h-[600px] w-full" alt="car!" /></figure>
             <div className="flex">
                 <div className="avatar-group -space-x-2 py-3 mx-2 ">
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/haha.png" />
+                            <img src="/emoji/haha.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/wow.png" />
+                            <img src="/emoji/wow.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/sad.png" />
+                            <img src="/emoji/sad.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/angry.png" />
+                            <img src="/emoji/angry.png" />
                         </div>
                     </div>
 
@@ -273,7 +273,7 @@ function Post() {
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
                         <div className="flex w-10 rounded-full">
-                            <img src="/public/card/tara.png" />
+                            <img src="/card/tara.png" />
                         </div>
                         <p className=" font-bold">Tara Sutaria</p>
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
@@ -310,27 +310,27 @@ function Post() {
                 #GoodHairDays #StBotanicaXTaraSutaria #NaturalHair
                 #VoluminousHair #BecauseYouAreBeautiful
                 #StBotanica #ad #paidpartnership  </p>
-            <figure><img src="/public/card/tara1.png" className=" h-[600px] w-full" alt="car!" /></figure>
+            <figure><img src="/card/tara1.png" className=" h-[600px] w-full" alt="car!" /></figure>
             <div className="flex">
                 <div className="avatar-group -space-x-2 py-3 mx-2 ">
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/love.png" />
+                            <img src="/emoji/love.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/care.png" />
+                            <img src="/emoji/care.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/wow.png" />
+                            <img src="/emoji/wow.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/sad.png" />
+                            <img src="/emoji/sad.png" />
                         </div>
                     </div>
 
@@ -369,7 +369,7 @@ function Post() {
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
                         <div className="flex w-10 rounded-full">
-                            <img src="/public/card/vivo.jpg" />
+                            <img src="/card/vivo.jpg" />
 
                         </div>
                         <p className=" font-bold">Vivo</p>
@@ -407,27 +407,27 @@ function Post() {
                 #vivoV29Series
                 #LoveBangladesh #Lovevivo #vivoBangladesh</p>
 
-            <figure><img src="/public/card/Vivoc.jpg" className=" h-[600px] w-full" alt="car!" /></figure>
+            <figure><img src="/card/Vivoc.jpg" className=" h-[600px] w-full" alt="car!" /></figure>
             <div className="flex">
                 <div className="avatar-group -space-x-2 py-3 mx-2 ">
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/haha.png" />
+                            <img src="/emoji/haha.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/wow.png" />
+                            <img src="/emoji/wow.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/sad.png" />
+                            <img src="/emoji/sad.png" />
                         </div>
                     </div>
                     <div className="avatar">
                         <div className="w-5">
-                            <img src="/public/emoji/angry.png" />
+                            <img src="/emoji/angry.png" />
                         </div>
                     </div>
 
