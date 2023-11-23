@@ -191,4 +191,4 @@ function NavbarComponent () {
   );
 }
 
-export default Navbar;
+export default NavbarComponent;
