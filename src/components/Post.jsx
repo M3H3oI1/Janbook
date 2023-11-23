@@ -11,7 +11,7 @@ function Post() {
             <Mind></Mind>
         </div>
 
-        <div className="card  glass bg-white">
+        <div className="card   glass bg-white">
             <div className="card-actions justify-between mt-7">
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
