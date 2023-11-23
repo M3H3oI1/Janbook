@@ -4,14 +4,14 @@ import Carosel from "./Carosel";
 
 function Post() {
     return (
-        <div className=" lg:flex flex-col gap-10 col-span-4 lg:w-5/12 mx-auto" >
+        <div className=" flex flex-col gap-10 col-span-4 lg:w-5/12 mx-auto">
             <Carosel></Carosel>
         
         <div className="sm:w-full lg:card glass bg-white">
             <Mind></Mind>
         </div>
 
-        <div className="card   glass bg-white">
+        <div className="card glass bg-white">
             <div className="card-actions justify-between mt-7">
                 <div className="dropdown dropdown-end">
                     <label tabIndex={0} className="btn btn-ghost avatar">
@@ -58,7 +58,7 @@ function Post() {
                 <source src="/video/vivo V29e.mp4" type="video/mp4" />
             </video>
             <div className="flex">
-                <div className="avatar-group -space-x-2 py-3 mx-2 ">
+                <div className="-space-x-0 lg:avatar-group lg:-space-x-2 py-3 mx-2 ">
                     <div className="avatar">
                         <div className="w-5">
                             <img src="/emoji/haha.png" />
@@ -81,7 +81,7 @@ function Post() {
                     </div>
 
                 </div>
-                <div className="mt-4">
+                <div className="mt-3  lg:mt-4">
                     <p>15k</p>
                 </div>
 
