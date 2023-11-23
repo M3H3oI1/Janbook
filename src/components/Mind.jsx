@@ -8,7 +8,7 @@ function Mind() {
                     <div className="dropdown dropdown-end">
                         <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
                             <div className="w-10 rounded-full">
-                                <img src="/public/logo/profile.jpeg" />
+                                <img src="/logo/profile.jpeg" />
                             </div>
                         </label>
                     </div>

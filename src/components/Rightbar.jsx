@@ -14,7 +14,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className="w-10 rounded-full">
-                            <img src="/public/image/chamk.jpg" />
+                            <img src="/image/chamk.jpg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Anila Yasmin</p>
@@ -22,7 +22,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full">
-                            <img src="/public/image/tara.jpeg" />right-0
+                            <img src="/image/tara.jpeg" />right-0
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Afrin Khan</p>
@@ -30,7 +30,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full">
-                            <img src="/public/image/amir.webp" />
+                            <img src="/image/amir.webp" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Anamika Oishe</p>
@@ -38,7 +38,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full ring ring-blue-600 ring-offset-2">
-                            <img src="/public/image/hayat.jpg" />
+                            <img src="/image/hayat.jpg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Bubly Khan</p>
@@ -46,7 +46,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full">
-                            <img src="/public/image/hand.jpeg" />
+                            <img src="/image/hand.jpeg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Fatema Islam</p>
@@ -54,7 +54,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full ring ring-blue-600 ring-offset-2">
-                            <img src="/public/image/erce.jpeg" />
+                            <img src="/image/erce.jpeg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Fatehi Islam</p>
@@ -62,7 +62,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full">
-                            <img src="/public/image/ercel.jpg" />
+                            <img src="/image/ercel.jpg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Geniya Islam</p>
@@ -70,7 +70,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className=" w-10 rounded-full ring ring-blue-600 ring-offset-2">
-                            <img src="/public/logo/profile.jpeg" />
+                            <img src="/logo/profile.jpeg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Imran Hasan Mehedi</p>
@@ -78,7 +78,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className="w-10 rounded-full ring ring-blue-600 ring-offset-2">
-                            <img src="/public/image/handel.jpeg" />
+                            <img src="/image/handel.jpeg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Sup-Sup</p>
@@ -86,7 +86,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg" >
                     <div className="avatar online">
                         <div className="w-10 rounded-full ">
-                            <img src="/public/image/nora.jpg" />
+                            <img src="/image/nora.jpg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Jara Islam</p>
@@ -94,7 +94,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar online">
                         <div className="w-10 rounded-full ring ring-blue-500 ring-offset-2">
-                            <img src="/public/image/sanj.jpg" />
+                            <img src="/image/sanj.jpg" />
                         </div>
                     </div>
                     <p className=" font-bold mt-3">Tuba Islam</p>
@@ -109,7 +109,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar">
                         <div className="w-10 h-10 rounded-full">
-                            <img src="/public/image/general.png" />
+                            <img src="/image/general.png" />
                         </div>
                     </div>
                     <div>
@@ -121,7 +121,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar">
                         <div className="w-10 h-10 rounded-full">
-                            <img src="/public/image/laravel.png" />
+                            <img src="/image/laravel.png" />
                         </div>
                     </div>
                     <div>
@@ -133,7 +133,7 @@ function Rightbar() {
                 <li className="flex gap-4 py-2 px-2 hover:bg-gray-300 rounded-lg">
                     <div className="avatar">
                         <div className="w-10 h-10 rounded-full">
-                            <img src="/public/image/laravel.png" />
+                            <img src="/image/laravel.png" />
                         </div>
                     </div>
                     <div>
@@ -152,12 +152,12 @@ function Rightbar() {
                     <div className="avatar-group  -space-x-3 mt-3">
                         <div className="avatar online">
                             <div className="w-8">
-                                <img src="/public/logo/profile.jpeg" />
+                                <img src="/logo/profile.jpeg" />
                             </div>
                         </div>
                         <div className="avatar online">
                             <div className="w-8">
-                                <img src="/public/image/tara.jpeg" />
+                                <img src="/image/tara.jpeg" />
                             </div>
                         </div>
                     </div>
@@ -171,12 +171,12 @@ function Rightbar() {
                     <div className="avatar-group  -space-x-3 mt-3">
                         <div className="avatar online">
                             <div className="w-8">
-                                <img src="/public/logo/profile.jpeg" />
+                                <img src="/logo/profile.jpeg" />
                             </div>
                         </div>
                         <div className="avatar online">
                             <div className="w-8">
-                                <img src="/public/image/tara.jpeg" />
+                                <img src="/image/tara.jpeg" />
                             </div>
                         </div>
                     </div>
@@ -190,12 +190,12 @@ function Rightbar() {
                     <div className="avatar-group  -space-x-3 mt-3">
                         <div className="avatar online">
                             <div className="w-8">
-                                <img src="/public/logo/profile.jpeg" />
+                                <img src="/logo/profile.jpeg" />
                             </div>
                         </div>
                         <div className="avatar online">
                             <div className="w-8">
-                                <img src="/public/image/tara.jpeg" />
+                                <img src="/image/tara.jpeg" />
                             </div>
                         </div>
                     </div>

@@ -28,48 +28,48 @@ function Carosel() {
                 className="mySwiper"
             >
                 <SwiperSlide>
-                    <img src="/public/post/han6.jpg" className="rounded-xl " />
+                    <img src="/post/han6.jpg" className="rounded-xl " />
 
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ras6.jpg" className="rounded-xl " />
+                    <img src="/post/ras6.jpg" className="rounded-xl " />
 
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/noe20.jpg" className="rounded-xl" />
+                    <img src="/post/noe20.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/nor10.jpg" className="rounded-xl" />
+                    <img src="/post/nor10.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/han5.jpg" className="rounded-xl" />
+                    <img src="/post/han5.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/hand.jpg" className="rounded-xl" />
+                    <img src="/post/hand.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/nor17.jpg" className="rounded-xl" />
+                    <img src="/post/nor17.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/dis2.jpg" className="rounded-xl" />
+                    <img src="/post/dis2.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/nor.jpg" className="rounded-xl" />
+                    <img src="/post/nor.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ra2.jpg" className="rounded-xl" />
+                    <img src="/post/ra2.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ra4.jpg" className="rounded-xl" />
+                    <img src="/post/ra4.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ras6.jpg" className="rounded-xl" />
+                    <img src="/post/ras6.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ur6.jpg" className="rounded-xl" />
+                    <img src="/post/ur6.jpg" className="rounded-xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                    <img src="/public/post/ur5.jpg" className="rounded-xl" />
+                    <img src="/post/ur5.jpg" className="rounded-xl" />
                 </SwiperSlide>
             </Swiper>
 

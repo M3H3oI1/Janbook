@@ -1,6 +1,7 @@
 import Mind from "./Mind";
 import Carosel from "./Carosel";
 
+
 function Post() {
     return (
         <div className=" lg:flex flex-col gap-10 col-span-4 lg:w-5/12 mx-auto" >
